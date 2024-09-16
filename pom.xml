@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus_releases</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://34.227.225.36:8081/repository/fintech_pay_releases/</url>
+	      <url>http://13.48.84.203:8081/repository/releasesrepo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus_snapshots</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.227.225.36:8081/repository/fintech_pay_snapshot/</url>
+	      <url>http://13.48.84.203:8081/repository/snapshotrepo/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
