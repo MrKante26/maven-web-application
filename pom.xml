@@ -84,13 +84,13 @@
 	    <repository>
 	      <id>nexus_releases</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://16.170.172.83:8081/repository/releasesRepo/</url>
+	      <url>http://16.170.172.83:8081/repository/releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus_snapshots</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository</name>
-	      <url>http://16.170.172.83:8081/repository/snapshotsRepo/</url>
+	      <url>http://16.170.172.83:8081/repository/snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
